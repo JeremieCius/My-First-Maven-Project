@@ -4,6 +4,7 @@
   <groupId>csc180.cius.jeremie</groupId>
   <artifactId>hello-maven</artifactId>
   <version>1.0-SNAPSHOT</version>
+
   <name>Archetype - hello-maven</name>
   <description>In this exercise you'll practice using your IDE to create a maven project.  Then you will manually update the pom to contain information about your project.</description>
   <url>http://maven.apache.org</url>
